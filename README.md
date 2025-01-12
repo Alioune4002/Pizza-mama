@@ -21,7 +21,7 @@ Pizza Mama est un projet web développé avec Django. Ce site affiche une liste 
 
 1. Clonez le dépôt
 
-git clone https://github.com/votre-utilisateur/pizza-mama.git
+git clone https://github.com/Alioune4002/Pizza-mama.git
 cd pizza-mama
 
 2. Créez un environnement virtuel et activez-le
